@@ -9,6 +9,7 @@ const ImageSearchForm = ({ onInputChange, onSubmit }) => {
           <input
             className="f4 pa2 w-70 center"
             type="text"
+            placeholder="Enter Image Link here"
             onChange={onInputChange}
           />
           <button
