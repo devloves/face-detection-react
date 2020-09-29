@@ -1,6 +1,8 @@
 # A Facial Recognition App with React.js Framework
 <hr>
+
 ## Used Tools and Techs
+
 <div align="left" style="display: flex;">
 &ensp;
 	<a href='https://www.react.org/'>
@@ -24,6 +26,7 @@
 ### API USED: You can grab Clarifai API key at https://www.clarifai.com/
 
 <hr>
+
 ## How to Use the app
 
 Clone this repo then run `npm install` and `npm start`
