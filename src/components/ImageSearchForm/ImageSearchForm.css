@@ -1,0 +1,20 @@
+.form {
+  width: 700px;
+  background: #393e46;
+}
+input[type="text"] {
+  outline: none;
+  border: none;
+  background: rgba(255, 255, 255, 0.0);
+  color: #fff
+}
+button{
+  outline: none;
+  border: 2px solid #00adb5;
+  border-radius: 2px; 
+  background: transparent;
+  transition: ease 0.5 all;
+}
+button:hover{
+  background: #00adb5;
+}
